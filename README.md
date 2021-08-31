@@ -1,2 +1,2 @@
-# -C_Language_Exercise
+# C_Language_Exercise
 C언어 학습
